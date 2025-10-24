@@ -2,4 +2,4 @@
 
 
 <img width="1910" height="448" alt="image" src="https://github.com/user-attachments/assets/02625b79-712f-4363-a4a6-3de622156241" />
-Try : https://a884027dcc1d0b4670.gradio.live
+Try : [ https://a884027dcc1d0b4670.gradio.live](https://huggingface.co/spaces/boomiikas/AI_Assistant)
